@@ -21,6 +21,16 @@
       "organizer": "Fern Pollin"
     },
     {
+      "id": 420,
+      "category": "chores",
+      "title": "water plants",
+      "description": "I need to water my plants!!",
+      "location": "my house",
+      "date": "January 10, 2023",
+      "time": "10:00",
+      "organizer": "Smitty VonWerbenJagermanjensen"
+    },
+    {
       "id": 789,
       "category": "sustainability",
       "title": "Beach Cleanup",
